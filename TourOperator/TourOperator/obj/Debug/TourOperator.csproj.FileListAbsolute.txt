@@ -1,0 +1,8 @@
+C:\Users\Karim\Desktop\TourOperator\TourOperator\bin\Debug\TourOperator.exe.config
+C:\Users\Karim\Desktop\TourOperator\TourOperator\bin\Debug\TourOperator.exe
+C:\Users\Karim\Desktop\TourOperator\TourOperator\bin\Debug\TourOperator.pdb
+C:\Users\Karim\Desktop\TourOperator\TourOperator\obj\Debug\TourOperator.csproj.AssemblyReference.cache
+C:\Users\Karim\Desktop\TourOperator\TourOperator\obj\Debug\TourOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karim\Desktop\TourOperator\TourOperator\obj\Debug\TourOperator.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Desktop\TourOperator\TourOperator\obj\Debug\TourOperator.exe
+C:\Users\Karim\Desktop\TourOperator\TourOperator\obj\Debug\TourOperator.pdb
